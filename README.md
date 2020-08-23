@@ -7,3 +7,6 @@ Refer to template to get the standard html, js and css templates and refer to be
 Project 1: Quote generator -real time
 
 Quote Generator - [github](https://github.com/navant/js-quotegenerator.git) and [live](https://navant.github.io/js-quotegenerator/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwNjc4MzgxOTJdfQ==
+-->
